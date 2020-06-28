@@ -9,9 +9,9 @@ public class Animal {
 
     private String weight;
 
-    void running(){};
+    void running(){}
 
-    void eating(){};
+    void eating(){}
 
     Animal(Integer age,String weight){
         this.age = age;
